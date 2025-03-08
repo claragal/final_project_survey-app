@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+seaborn
+spacy
+wordcloud
+nltk
+unidecode
+transformers
+bertopic
+openai
+python-dotenv

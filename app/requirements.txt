@@ -3,6 +3,7 @@ pandas
 matplotlib
 seaborn
 spacy
+es-core-news-sm
 wordcloud
 nltk
 unidecode

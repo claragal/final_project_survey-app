@@ -21,24 +21,14 @@ scikit-learn
 nltk
 unidecode
 transformers
-import streamlit as st
-from streamlit_option_menu import option_menu
-import altair as alt
-import pandas as pd
-import numpy as np
-import re
-import matplotlib.pyplot as plt
+altair
+re
 import seaborn as sns
-from wordcloud import WordCloud
-import spacy
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from unidecode import unidecode
-from transformers import pipeline
-import nltk
-from collections import Counter
-from bertopic import BERTopic
-from openai import OpenAI
-from dotenv import load_dotenv
-import os
-import io  
+word_tokenize
+stopwords
+pipeline
+Counter
+OpenAI
+load_dotenv
+os
+io  

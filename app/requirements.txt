@@ -1,5 +1,6 @@
 streamlit
 pandas
+numpy
 matplotlib
 seaborn
 spacy
@@ -15,3 +16,8 @@ rich==13.9.4
 pygments==2.19.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
+python-dotenv
+scikit-learn
+nltk
+unidecode
+transformers
